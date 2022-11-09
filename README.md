@@ -38,5 +38,34 @@ const nome = "maria";
 console.log(nome);
 ```
     
+# Revisão dos Comandos
 
+Prepara os arquivos para serem comitados (ou seja, gerado uma nova versão).
+```
+git add nome_de_um_arquivo
+```
+
+Gera uma versão dos arquivos adicionados com o comando do `git add`.
+```
+git commit -m "O que você fez?"
+```
     
+Envia para o GITHUB
+```
+git push origin main
+```  
+
+Pega alterações que estão no github, mas não estão na minha máquina.
+```
+git pull origin main
+```
+
+Encontrado no botão code de um repositório
+```
+git clone link_do_repositório
+```
+
+exibe o que foi alterado/adicionado/excluido do projeto.
+```
+git status
+```
