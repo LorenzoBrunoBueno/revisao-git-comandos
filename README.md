@@ -60,7 +60,7 @@ Pega alterações que estão no github, mas não estão na minha máquina.
 git pull origin main
 ```
 
-Encontrado no botão code de um repositório
+Encontrado no botão code de um repositório.
 ```
 git clone link_do_repositório
 ```
